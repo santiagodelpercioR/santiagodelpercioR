@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Santiago.
+# 👋 Hi, I'm Santiago  
 
-- 💻 I’m studying: Information Systems Engineering.
-- 🔭 I’m currently working on: Building projects to improve my skills and expand my knowledge in software development.
-- 🌱 I’m currently learning: Front-end development (HTML, CSS, JavaScript) and SQL basics.
-- 👯 I’m looking to collaborate on: Open-source projects or small front-end applications to enhance my skills and gain real-world experience.
-- 📫 How to reach me: [GitHub](https://github.com/santiagodelpercioR) | [LinkedIn](https://linkedin.com/in/santiagodelpercioR)
+💻 **Currently Studying**: Information Systems Engineering.
+🔭 **Currently Working On**: Building personal projects to improve my skills and expand my knowledge in software development.  
+🌱 **Currently Learning**: Front-end development (HTML, CSS, JavaScript), Tailwind CSS, and SQL basics.  
+👯 **Looking to Collaborate On**: Open-source projects or small front-end applications to enhance my skills and gain real-world experience.  
+📫 **How to Reach Me**:  [GitHub](https://github.com/santiagodelpercioR) | [LinkedIn](https://linkedin.com/in/tu-perfil)  
